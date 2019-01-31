@@ -3,7 +3,13 @@ Laravel Mix plugin that replaces all the assets URLs with the corresponding hash
 
 This plugin is mainly meant to be used in a CI/CD workflow.
 
-## How to use it
+## Install
+
+```
+npm i laravel-mix-version-apply
+```
+
+## Usage
 
 ```
 let mix = require('laravel-mix');
